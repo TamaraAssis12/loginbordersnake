@@ -130,7 +130,7 @@ h2{
 
 .inputBox input:valid~span,
 .inputBox input:focus~span{
-    color: #ffb056;
+    color: #F8AA12;
     transform: translateX(0px) translateY(-34px);
     font-size: 0.75em;
 }
@@ -168,14 +168,14 @@ h2{
 
 .links a:hover,
 .links a:nth-child(2){
-    color: #ffb056;
+    color: #dd9911;
 }
 
 input[type="submit"]{
     border: none;
     outline: none;
     padding: 11px 25px;
-    background: #ffb056;
+    background: #F8AA12;
     cursor: pointer;
     border-radius: 4px;
     font-weight: 600;

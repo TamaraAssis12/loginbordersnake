@@ -16,7 +16,7 @@ O loginbordersnake é uma aplicação que implementa um sistema de login com um 
 
 ## Tecnologias Utilizadas
 
-- (Liste aqui as tecnologias, por exemplo: React, JavaScript, CSS, etc.)
+- HTML5, CSS e JavaScript)
 
 ## Como rodar o projeto
 

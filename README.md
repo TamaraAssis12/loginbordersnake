@@ -4,6 +4,8 @@
 
 Um projeto de autenticação com interface estilizada, inspirado no clássico jogo da cobrinha.
 
+https://tamaraassis12.github.io/loginbordersnake/
+
 ## Descrição
 
 O loginbordersnake é uma aplicação que implementa um sistema de login com um toque divertido: a borda do formulário de login é animada como uma cobrinha, trazendo uma experiência visual única para o usuário.
